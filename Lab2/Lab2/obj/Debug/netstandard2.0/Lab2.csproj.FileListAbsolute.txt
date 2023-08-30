@@ -1,0 +1,15 @@
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.deps.json
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.dll
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/bin/Debug/netstandard2.0/ref/Lab2.dll
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.pdb
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.csproj.AssemblyReference.cache
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.AssemblyInfoInputs.cache
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.AssemblyInfo.cs
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.dll
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/refint/Lab2.dll
+/Users/yuliayuste/Projects/Lab2/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.pdb

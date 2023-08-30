@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "57GYH6zq4Cuql3dtUVX8A2cR22Bo5YFTzh/mbhGB71f6gBBqgbka72QchDSnqK9fPDdTcyWvsCeq9CgST0lNxQ==",
+  "success": true,
+  "projectFilePath": "/Users/yuliayuste/Projects/Lab2/Lab2/Lab2.iOS/Lab2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuliayuste/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
