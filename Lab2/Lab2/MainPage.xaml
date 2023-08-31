@@ -3,12 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Lab2"
              x:Class="Lab2.MainPage">
-    <ContentPage.Resources>
+
+    <!--<ContentPage.Resources>
         <ResourceDictionary>
 <local:MyClass x:Key="p"></local:MyClass> </ResourceDictionary>
-    </ContentPage.Resources>
-    <ContentPage.BindingContext>
+    </ContentPage.Resources>-->
+
+    <!--<ContentPage.BindingContext>
         <StaticResource Key="p"></StaticResource>
+    </ContentPage.BindingContext>-->
+
+     <ContentPage.BindingContext>
+        <local:VM_MyClass></local:VM_MyClass>
     </ContentPage.BindingContext>
 
     <StackLayout>
@@ -16,10 +22,23 @@
 <Label Text="Пример" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
 
-        <Editor Text="{Binding Name}"></Editor>
-<Label Text="{Binding Name}"></Label>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Command="{Binding Add}" Text="+"></Button>
+            <Button Command="{Binding Del}" Text="-"></Button>
+        </StackLayout>
+        <ListView ItemsSource="{Binding List}" SelectedItem="{Binding SelectedItem}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Text="{Binding Name}"></Label>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!--<Editor Text="{Binding Name}" HorizontalOptions="FillAndExpand" />
       <Label Text="Xaml text" FontSize="25" HorizontalOptions="CenterAndExpand"/>
-<Label Text="{Binding Name}" FontSize="25" HorizontalOptions="CenterAndExpand"></Label>
+<Label Text="{Binding Name}" FontSize="25" HorizontalOptions="CenterAndExpand"></Label>-->
     </StackLayout>
 
 </ContentPage>
